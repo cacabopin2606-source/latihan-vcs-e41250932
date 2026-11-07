@@ -1,9 +1,9 @@
 markdown
 # Latihan Version Control - [Nama Lengkap]
 ## Informasi Mahasiswa
-- **Nama:** Nama Lengkap Anda
-- **NIM:** 20240001
-- **Kelas:** [Kelas Anda]
+- **Nama:** Nadia Laela Anabella Kurnia
+- **NIM:** E41250932
+- **Kelas:** C
 - **Mata Kuliah:** Standarisasi Coding
 ## Deskripsi Proyek
 Repository ini dibuat untuk memenuhi Tugas 1 mata kuliah
